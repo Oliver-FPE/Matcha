@@ -1,6 +1,9 @@
 # Matcha
 A package manager wrriten in Rust for Node
 ---
+# Dependencies
+- Cargo
+- Git
 # Installation
 Make sure you have Rust installed first!
 
