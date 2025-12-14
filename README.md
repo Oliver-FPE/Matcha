@@ -4,6 +4,7 @@ A package manager wrriten in Rust for Node
 # Dependencies
 - Cargo
 - Git
+- Node
 # Installation
 Make sure you have Rust installed first!
 
