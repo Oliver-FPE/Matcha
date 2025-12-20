@@ -12,6 +12,7 @@ A package manager wrriten in Rust for Node
 - Cargo
 - Git
 - Node
+
 # Installation
 Make sure you have Rust installed first!
 
