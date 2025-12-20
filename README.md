@@ -9,14 +9,10 @@ A package manager wrriten in Rust for Node
   <a href="#Why is it fast?"><kbd> <br> Why is it fast? <br> </kbd></a>&ensp;&ensp;
   <a href="#What's missing?"><kbd> <br> Missing stuff <br> </kbd></a>&ensp;&ensp;
  </div><br>
-# Dependencies
-- Cargo
-- Git
-- Node
 
 # Installation
 Make sure you have Rust installed first!
-
+- You need node.js for the package manager duh
 - Clone the repository
 - Run `cargo run --release install package` or `cargo run --release install package@version`
 
