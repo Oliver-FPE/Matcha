@@ -7,7 +7,7 @@ A package manager wrriten in Rust for Node
   <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
   <a href="#what-can-it-do"><kbd> <br> What can it do <br> </kbd></a>&ensp;&ensp;
   <a href="#why-is-it-fast"><kbd> <br> Why is it fast? <br> </kbd></a>&ensp;&ensp;
-  <a href="#what's-missing"><kbd> <br> Missing stuff <br> </kbd></a>&ensp;&ensp;
+  <a href="#whats-missing"><kbd> <br> Missing stuff <br> </kbd></a>&ensp;&ensp;
  </div><br>
 
 ## Installation
