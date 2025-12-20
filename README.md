@@ -1,6 +1,13 @@
 # Matcha
 A package manager wrriten in Rust for Node
 ---
+<div align="center">
+<br> 
+  <a href="#Installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
+  <a href="What can it do?"><kbd> <br> What can it do <br> </kbd></a>&ensp;&ensp;
+  <a href="#Why is it fast?"><kbd> <br> Why is it fast? <br> </kbd></a>&ensp;&ensp;
+  <a href="#What's missing?"><kbd> <br> Missing stuff <br> </kbd></a>&ensp;&ensp;
+ </div><br>
 # Dependencies
 - Cargo
 - Git
