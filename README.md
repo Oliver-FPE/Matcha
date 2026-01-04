@@ -1,7 +1,6 @@
 # Matcha
 A package manager wrriten in Rust for Node
 ---
-# Contains
 <div align="center">
 <br> 
   <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
