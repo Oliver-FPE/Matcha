@@ -13,6 +13,7 @@ A package manager wrriten in Rust for Node
 Make sure you have Rust installed first!
 - You need node.js for the package manager duh
 - Clone the repository
+- CD into the repo
 - Run `cargo run --release install package` or `cargo run --release install package@version`
 
 
